@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 Apa yang sedang saya kerjakan?
+### 💼 What I'm up to
 👨🏻‍💻 I'm currently undergraduate at University of Muhammadiyah Surakarta
 
 💬 Ask me about about anything related to  Web Developer & UI/UX 
@@ -28,7 +28,7 @@
 
 ---
 
-### 🧰 Bahasa & Tools yang Saya Gunakan
+### 🧰 Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
@@ -48,7 +48,7 @@
 
 
 ---
-## 📊 GitHub Stats:
+## 📊 My Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=narendrasatyaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Narendra's GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=narendrasatyaa&theme=dark&hide_border=true" alt="Streak Stats" /> </br>
