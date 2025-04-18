@@ -1,16 +1,18 @@
 <h1 align="center">
-👋 Hai, saya Narendra Satya Adikurniawan
+Hai, I am Narendra Satya Adikurniawan 👋 
 </h1>
 <p align="center">
-   <strong>Selamat datang di profil GitHub saya!</strong><br>
-  Saya adalah seorang <strong>Mahasiswa Informatika di Universitas Muhammadiyah Surakarta</strong>,<br>
-  berdomisili di Solo, Indonesia. Saya memiliki minat yang kuat dalam <strong>pengembangan web</strong> dan <strong>UI/UX design</strong>.
+   <strong>Welcome to my Github profile!</strong><br>
+  <p>
+  I am a <strong>Computer Science student at Universitas Muhammadiyah Surakarta</strong>,<br>
+  based in Solo, Indonesia. I have a strong interest in <strong>web development</strong> and <strong>UI/UX design</strong>.
 </p>
+
 
 
 ---
 
-### 🔗 Terhubung dengan saya:
+### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Satya-blue?logo=linkedin)](https://www.linkedin.com/in/narendra-satya-adikurniawan)
 [![Instagram](https://img.shields.io/badge/@narendrasatya-E4405F?logo=instagram&logoColor=white)](https://instagram.com/narendrasatyaa)
 [![Email](https://img.shields.io/badge/Gmail-narendrasatya.dev@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:narendra.adikurniawan@gmail.com)
