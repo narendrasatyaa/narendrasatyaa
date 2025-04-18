@@ -4,7 +4,7 @@ Hai, I am Narendra Satya Adikurniawan 👋
 <p align="center">
    <strong>Welcome to my Github profile!</strong><br>
    I am a <strong>Computer Science student at Universitas Muhammadiyah Surakarta</strong>,<br>
-   based in Solo, Indonesia. I have a strong interest in <strong>web development</strong> and <strong>UI/UX design</strong>.
+   based in Surakarta, Indonesia. I have a strong interest in <strong>web development</strong> and <strong>UI/UX design</strong>.
 </p>
 
 
