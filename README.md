@@ -7,9 +7,7 @@ Saya adalah seorang **Mahasiswa Informatika di Universitas Muhammadiyah Surakart
 
 ### 🔗 Terhubung dengan saya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Satya-blue?logo=linkedin)](https://www.linkedin.com/in/narendrasatya)
-
 [![Instagram](https://img.shields.io/badge/@narendrasatya-E4405F?logo=instagram&logoColor=white)](https://instagram.com/narendrasatya)
-
 [![Email](https://img.shields.io/badge/Gmail-narendrasatya.dev@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:narendrasatya.dev@gmail.com)
 
 ---
