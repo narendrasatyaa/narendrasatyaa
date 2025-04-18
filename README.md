@@ -1,5 +1,6 @@
-# 👋 Hai, saya Narendra Satya Adikurniawan
-
+<h1 align="center">
+👋 Hai, saya Narendra Satya Adikurniawan
+</h1>
 <p align="center">
   🙏🏻 <strong>Selamat datang di profil GitHub saya!</strong><br>
   Saya adalah seorang <strong>Mahasiswa Informatika di Universitas Muhammadiyah Surakarta</strong>,<br>
