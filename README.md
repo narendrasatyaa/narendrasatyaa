@@ -1,52 +1,43 @@
-<p align="center">
-    <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/main/banner-profile.png" alt="banner-profile"/>
-</p>
+# 👋 Hai, saya Narendra Satya Adikurniawan
 
-<h1 align="center">Hi 👋, I'm Narendra Satya</h1>
-<p align="center">🌱 Informatics Engineering Student | 💻 Web Developer & UI/UX Enthusiast</p>
+### 🙏🏻 Selamat datang di profil GitHub saya!
+Saya adalah seorang **Mahasiswa Teknik Informatika** dan pengembang web 🚀 yang berdomisili di Solo, Indonesia.
 
 ---
 
-## 💫 About Me
-Informatics Undergraduate at Muhammadiyah University of Surakarta | Frontend Development & UI/UX Design Enthusiast | Seeking Internship Opportunity | Passionate About Modern Web Technologies and Interactive Interfaces
+### 🔗 Terhubung dengan saya:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Satya-blue?logo=linkedin)](https://www.linkedin.com/in/narendrasatya)
+[![Instagram](https://img.shields.io/badge/@narendrasatya-E4405F?logo=instagram&logoColor=white)](https://instagram.com/narendrasatya)
+[![Email](https://img.shields.io/badge/Gmail-narendrasatya.dev@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:narendrasatya.dev@gmail.com)
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/narenvisuals_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-satya-adikurniawan/)
+### 💼 Apa yang sedang saya kerjakan?
+
+- 👨‍💻 Sedang membangun beberapa proyek berbasis **PHP & MySQL** seperti:
+  - Website toko tanaman hias 🌿
+  - Sistem manajemen absensi cloud 📋
+  - Website reservasi hotel 🏨
+- 🔍 Belajar **Laravel**, pengembangan web modern, dan pengelolaan database
+- 🎓 Aktif sebagai mahasiswa & pengurus Himpunan Mahasiswa Teknik Informatika
+- 🧠 Tertarik pada **Cybersecurity**, **Open Source**, dan **UI/UX Design**
 
 ---
 
-## 🔧 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-</p>
-
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendrasatyaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Narendra's GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=narendrasatyaa&theme=dark&hide_border=true" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrasatyaa&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+### 🧰 Bahasa & Tools yang Saya Gunakan
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=narendrasatyaa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats
+![Narendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narendrasatya&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narendrasatya&layout=compact&theme=radical)
