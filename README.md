@@ -1,10 +1,10 @@
 # 👋 Hai, saya Narendra Satya Adikurniawan
 
-<center>
+<p align="center">
   🙏🏻 <strong>Selamat datang di profil GitHub saya!</strong><br>
   Saya adalah seorang <strong>Mahasiswa Informatika di Universitas Muhammadiyah Surakarta</strong>,<br>
   berdomisili di Solo, Indonesia. Saya memiliki minat yang kuat dalam <strong>pengembangan web</strong> dan <strong>UI/UX design</strong>.
-</center>
+</p>
 
 
 ---
