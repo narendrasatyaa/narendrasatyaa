@@ -13,7 +13,7 @@ Hai, I am Narendra Satya Adikurniawan 👋
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Satya%20A-blue?logo=linkedin)](https://www.linkedin.com/in/narendra-satya-adikurniawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Satya%20Adikurniawan-blue?logo=linkedin)](https://www.linkedin.com/in/narendra-satya-adikurniawan)
 [![Instagram](https://img.shields.io/badge/@narendrasatyaa-E4405F?logo=instagram&logoColor=white)](https://instagram.com/narendrasatyaa)
 [![Email](https://img.shields.io/badge/Gmail-narendra.adikurniawan@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:narendra.adikurniawan@gmail.com)
 
