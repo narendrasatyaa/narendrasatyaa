@@ -50,6 +50,7 @@ Hai, I am Narendra Satya Adikurniawan 👋
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Tailwind-%2300C4CC.svg?style=for-the-badge&logo=Tailwind&logoColor=white" alt="Tailwind" />
 </p>
 
 
