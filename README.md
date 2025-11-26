@@ -7,32 +7,18 @@
 </h1>
 
 <p align="center">
-  **Fullstack Developer & UI/UX Enthusiast | Aspiring iOS Developer**
+  <b><i>
+  Fullstack Developer & UI/UX Enthusiast | Aspiring iOS Developer
+  </i>
+  </b>
   <br>
   Currently a 5th Semester Student learning Swift & Mobile Dev.
 </p>
 
----
 
 <p align="center">
   <strong>Welcome to my Github profile!</strong>
 </p>
-
-<p align="center">
-  Saya adalah **Mahasiswa Ilmu Komputer** di **Universitas Muhammadiyah Surakarta**, 
-  berbasis di Surakarta, Indonesia.
-  <br>
-  Saya memiliki minat yang kuat dan bersemangat dalam:
-</p>
-
-<p align="center">
-  * **Web Development**
-  * **UI/UX Design**
-</p>
-
-
-
-
 
 ---
 
@@ -45,39 +31,36 @@
 ---
 
 ### 💼 What I'm up to
-👨🏻‍💻 I'm currently undergraduate at University of Muhammadiyah Surakarta
+👨🏻‍💻 I'm currently an undergraduate student at Universitas Muhammadiyah Surakarta
 
-💬 Ask me about about anything related to  Web Developer & UI/UX 
+💬 Ask me about anything related to Web Development & UI/UX 
 
-🎓 I'm currently learning Laravel, PHP, Mobile Development with dart
+🎓 I'm currently learning Laravel, PHP, Swift & Mobile Development
 
 📫 How to reach me:  narendra.adikurniawan@gmail.com
 
 ---
 
 ### 🧰 Languages and Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.js" />
-
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
-
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.js" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
 </p>
 
 
@@ -93,11 +76,6 @@
 
 ---
 
-
-
 [![](https://visitcount.itsvg.in/api?id=narendrasatyaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
