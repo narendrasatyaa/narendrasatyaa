@@ -1,18 +1,33 @@
-Full-Stack Developer & UI/UX Enthusiast | Aspiring iOS Developer 🚀  
-5th Semester Computer Science Student | Learning Swift & Mobile Development
-
 <p align="center">
-  <img src="banner-profile.png" alt="Banner" width="100%" />
+  <img src="banner-profile.png" alt="Banner Profil Narendra Satya Adikurniawan" width="100%" />
 </p>
 
 <h1 align="center">
-Hi, I'm Narendra Satya Adikurniawan 👋
+  Hai, I am Narendra Satya Adikurniawan 👋
 </h1>
 
 <p align="center">
-  <strong>Welcome to my GitHub!</strong><br>
-  I'm a <strong>Computer Science student at Universitas Muhammadiyah Surakarta</strong>, based in Surakarta, Indonesia.<br>
-  Passionate about <strong>web development</strong>, <strong>UI/UX design</strong>, and <strong>mobile apps</strong>.
+  **Fullstack Developer & UI/UX Enthusiast | Aspiring iOS Developer**
+  <br>
+  Currently a 5th Semester Student learning Swift & Mobile Dev.
+</p>
+
+---
+
+<p align="center">
+  <strong>Welcome to my Github profile!</strong>
+</p>
+
+<p align="center">
+  Saya adalah **Mahasiswa Ilmu Komputer** di **Universitas Muhammadiyah Surakarta**, 
+  berbasis di Surakarta, Indonesia.
+  <br>
+  Saya memiliki minat yang kuat dan bersemangat dalam:
+</p>
+
+<p align="center">
+  * **Web Development**
+  * **UI/UX Design**
 </p>
 
 
