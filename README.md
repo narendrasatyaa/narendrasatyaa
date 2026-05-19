@@ -13,7 +13,7 @@
   Fullstack Developer • UI/UX Enthusiast • Aspiring iOS Developer
   </i></b>
   <br>
-  Currently a 5th Semester Student learning Swift & Mobile Dev.
+  Currently a 6th Semester Student learning Swift & Mobile Dev.
 </p>
 
 <p align="center">
