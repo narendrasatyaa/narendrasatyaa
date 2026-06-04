@@ -60,25 +60,4 @@
 
 ---
 
-## 📊 My Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=narendrasatyaa&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrasatyaa&theme=dark&hide_border=true&layout=compact" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/narendrasatyaa/narendrasatyaa/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=narendrasatyaa&icon=0&color=0" />
-</p>
-
-<!-- Proudly created with ❤️ by Narendra Satya Adikurniawan -->
+Proudly created by Narendra Satya Adikurniawan 
