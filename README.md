@@ -94,7 +94,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrasatyaa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narendrasatyaa&theme=tokyo-night)
 ---
 
 ## 🏆 Achievements & Activities
