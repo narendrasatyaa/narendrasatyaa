@@ -86,11 +86,15 @@
 | 🌐 **Web Profile** | Personal portfolio website | HTML, CSS, JS |
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrasatyaa&theme=tokyonight" alt="GitHub Streak" />
+</p>
+---
 <p align="center">
   <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake dark" />
   <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake light" />
 </p>
+
 ---
 
 ## 🏆 Achievements & Activities
@@ -98,11 +102,10 @@
 - 🎖️ **UMS Library Digital Scholarship Awardee 2026** - IT Category
 - 🏅 **Beasiswa Bank Jateng Syariah Awardee** - Batch 3 (2025)
 - 🎤 **Speaker** at Familiarity Night - HIMATIF UMS (2024 & 2025)
-- 🎙️ **Podcast Speaker** — HIMATIF Podcast, UMS (2024)
+- 🎙️ **Podcast Speaker** - HIMATIF Podcast, UMS (2024)
 - 📋 **Head of Science & Research** - HIMATIF UMS (2025)
 - 🍎 **Apple Developer Academy @ Ciputra University** - Interview Invitee (2025)
 - 🖼️ Nomination for **10 Best National Posters** - Dharma Indonesia University (2025)
-
 ---
 
 <p align="center">
