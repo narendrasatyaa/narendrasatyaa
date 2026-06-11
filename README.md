@@ -86,10 +86,7 @@
 | 🌐 **Web Profile** | Personal portfolio website | HTML, CSS, JS |
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrasatyaa&theme=tokyonight" alt="GitHub Streak" />
-</p>
----
+
 <p align="center">
   <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake dark" />
   <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake light" />
@@ -108,6 +105,9 @@
 - 🖼️ Nomination for **10 Best National Posters** - Dharma Indonesia University (2025)
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narendrasatyaa&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 <p align="center">
   Proudly created by <strong>Narendra Satya Adikurniawan</strong>
 </p>
