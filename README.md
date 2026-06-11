@@ -81,7 +81,7 @@
 | 📦 **e-Archive System** | Multi-file upload (up to 10 files) with automated ZIP processing | Laravel, MySQL |
 | ☕ **Library Cafe POS** | End-to-end Point of Sale application for Library Cafe | Laravel 13, MySQL, Vite |
 | 👥 **Employee Attendance System** | GPS-based attendance with shift logic & mini-map visualization | Laravel, MySQL |
-| 🤖 **TirtaAI Chatbot** | AI chatbot powered by Qwen-Plus | Python |
+| 🤖 **TirtaAI Chatbot** | AI chatbot powered by QROG | Python |
 | 🎨 **KaryaHub** | UI/UX-based collaboration platform (SDLC) | Figma |
 | 🌐 **Web Profile** | Personal portfolio website | HTML, CSS, JS |
 
@@ -94,7 +94,10 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrasatyaa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narendrasatyaa&theme=tokyo-night)
+<p align="center">
+  <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake dark" />
+  <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake light" />
+</p>
 ---
 
 ## 🏆 Achievements & Activities
