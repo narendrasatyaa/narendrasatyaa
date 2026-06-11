@@ -87,13 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendrasatyaa&show_icons=true&theme=tokyonight" alt="Narendra's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrasatyaa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 <p align="center">
   <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake dark" />
   <img src="https://github.com/narendrasatyaa/narendrasatyaa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake light" />
