@@ -34,7 +34,7 @@
 ## 💼 What I'm up to
 
 - 👨🏻‍💻 Undergraduate student at **Universitas Muhammadiyah Surakarta** (GPA: 3.72/4.00)
-- 🏢 Currently **IT Intern** @ UPT Perpustakaan & Layanan Digital UMS — building a full POS system with Laravel 13
+- 🏢 Currently **IT Intern** @ UPT Perpustakaan & Layanan Digital UMS - building a full POS system with Laravel 13
 - 🧪 Also serving as **Web Programming Lab Assistant** @ UMS
 - 📱 Learning **Flutter/Dart** for Mobile App Development
 - 💬 Ask me about **Fullstack Web Dev, Laravel, UI/UX Design, or System Architecture**
@@ -95,13 +95,13 @@
 
 ## 🏆 Achievements & Activities
 
-- 🎖️ **UMS Library Digital Scholarship Awardee 2026** — IT Category
-- 🏅 **Beasiswa Bank Jateng Syariah Awardee** — Batch 3 (2025)
-- 🎤 **Speaker** at Familiarity Night — HIMATIF UMS (2024 & 2025)
+- 🎖️ **UMS Library Digital Scholarship Awardee 2026** - IT Category
+- 🏅 **Beasiswa Bank Jateng Syariah Awardee** - Batch 3 (2025)
+- 🎤 **Speaker** at Familiarity Night - HIMATIF UMS (2024 & 2025)
 - 🎙️ **Podcast Speaker** — HIMATIF Podcast, UMS (2024)
-- 📋 **Head of Science & Research** — HIMATIF UMS (2025)
-- 🍎 **Apple Developer Academy @ Ciputra University** — Interview Invitee (2025)
-- 🖼️ Nomination for **10 Best National Posters** — Dharma Indonesia University (2025)
+- 📋 **Head of Science & Research** - HIMATIF UMS (2025)
+- 🍎 **Apple Developer Academy @ Ciputra University** - Interview Invitee (2025)
+- 🖼️ Nomination for **10 Best National Posters** - Dharma Indonesia University (2025)
 
 ---
 
